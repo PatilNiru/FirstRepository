@@ -1,1 +1,1 @@
-Welcome to Git tutorial
+Welcome to Git tutorial. Next we will learn git pull push commit.
